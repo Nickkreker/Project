@@ -1,0 +1,3 @@
+model,mape,r2,mae
+GradientBoosting_1,0.0133,0.7986,0.0083
+GradientBoosting_2,0.0137,0.7970,0.0089

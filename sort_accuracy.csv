@@ -1,0 +1,6 @@
+model,accuracy
+resnet18,0.910543
+resnet101,0.926518
+densenet201,0.929712
+densenet201_100,0.932907
+densenet121,0.897764
